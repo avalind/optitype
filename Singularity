@@ -1,5 +1,5 @@
 Bootstrap: docker
-From: fred2/optitype
+From:fred2/optitype
 
 %runscript
 
