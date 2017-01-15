@@ -1,9 +1,6 @@
-# Optitype 
-
-This is the official build repository for OptiType images for Singularity Hub.
+# Singularity Optitype 
 
 This will produce a Singularity image (suitable for running in a cluster environment) using [https://github.com/FRED-2/OptiType](https://github.com/FRED-2/OptiType). We do this by way of a bootstrap file for the Docker image.
-
 
 ## 1. Install Singularity
 
